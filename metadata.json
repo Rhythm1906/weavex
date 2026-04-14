@@ -1,0 +1,5 @@
+{
+  "name": "WeaveX",
+  "description": "IoT-based smart arm sleeve for real-time ECG and stress monitoring with secure role-based login",
+  "requestFramePermissions": []
+}
